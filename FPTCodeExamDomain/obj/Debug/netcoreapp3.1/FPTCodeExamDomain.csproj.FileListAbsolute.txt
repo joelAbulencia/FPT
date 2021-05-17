@@ -1,0 +1,9 @@
+C:\Users\MACH UNION\source\repos\FPTCodeExamDomain\bin\Debug\netcoreapp3.1\FPTCodeExamDomain.deps.json
+C:\Users\MACH UNION\source\repos\FPTCodeExamDomain\bin\Debug\netcoreapp3.1\FPTCodeExamDomain.dll
+C:\Users\MACH UNION\source\repos\FPTCodeExamDomain\bin\Debug\netcoreapp3.1\FPTCodeExamDomain.pdb
+C:\Users\MACH UNION\source\repos\FPTCodeExamDomain\obj\Debug\netcoreapp3.1\FPTCodeExamDomain.csprojAssemblyReference.cache
+C:\Users\MACH UNION\source\repos\FPTCodeExamDomain\obj\Debug\netcoreapp3.1\FPTCodeExamDomain.AssemblyInfoInputs.cache
+C:\Users\MACH UNION\source\repos\FPTCodeExamDomain\obj\Debug\netcoreapp3.1\FPTCodeExamDomain.AssemblyInfo.cs
+C:\Users\MACH UNION\source\repos\FPTCodeExamDomain\obj\Debug\netcoreapp3.1\FPTCodeExamDomain.csproj.CoreCompileInputs.cache
+C:\Users\MACH UNION\source\repos\FPTCodeExamDomain\obj\Debug\netcoreapp3.1\FPTCodeExamDomain.dll
+C:\Users\MACH UNION\source\repos\FPTCodeExamDomain\obj\Debug\netcoreapp3.1\FPTCodeExamDomain.pdb
